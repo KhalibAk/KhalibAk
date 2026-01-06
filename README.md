@@ -15,5 +15,3 @@ I'm currently working on FiveM Scripts.
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
-<img width="900" height="900" alt="png-clipart-computer-icons-java-咖啡海报图片素材-miscellaneous-text" src="https://github.com/user-attachments/assets/12b64ad8-6337-46ae-9a0b-c70e0822686e" />
-
