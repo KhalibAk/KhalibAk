@@ -1,13 +1,6 @@
 # 🕹️ Hey !
 I'm currently working on FiveM Scripts.
 
-### 🌐 Socials:
-<a href="https://discord.gg/DEIN_INVITE_LINK">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-<a href="https://twitch.tv/DEIN_NAME">
-  <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
-</a>
 
 ### 💻 Languages:
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
