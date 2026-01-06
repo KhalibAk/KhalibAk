@@ -1,5 +1,6 @@
 # 🕹️ Hey !
-I'm currently working on FiveM Scripts.
+Fullstack Developer for FiveM.
+Germany
 
 
 ### 💻 Languages:
